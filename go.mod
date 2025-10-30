@@ -1,3 +1,3 @@
-module github.com/jo3qma/alertmanager-discord
+module github.com/benjojo/alertmanager-discord
 
 go 1.25.3
